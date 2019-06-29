@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Computer Engineering, Tribhuvan University, 2012-2017
+* Ph.D in Computer Engineering, GitHub University, 2019- Present
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* Summer 2019: Research Assistant
+  * Lawerence Berkeley National Labrotrary 
+  * Duties included: Worked with Large Scale Solvers group of CRD Division. 
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2019: Research Assistant
+  * University of Massachusetts, Lowell
+  * Duties included: Machine Learning, Graph Computing, Algorithms and HPC with GPUs
+  * Supervisor: Professor Hang Liu
   
 Skills
 ======
